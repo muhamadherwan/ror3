@@ -25,4 +25,6 @@ Things you may want to cover:
 
 - I luv Ruby
 
+- git hub repo
+
 - ...
